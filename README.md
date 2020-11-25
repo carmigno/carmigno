@@ -1,4 +1,6 @@
-Hello, I am Carmine (he/him/his), a Data Scientist from Naples, in southern Italy. 
+**Hello, I am Carmine (he/him/his)!**
+
+I am Data Scientist from Naples, in southern Italy. 
 
 At my current job I analyze hospitals' data to evaluate the quality of the care they offer. The languages I use everyday for those tasks are t-SQL, Python and VBA/Excel. 
 I especially enjoy building tools and therefore I am very interested to data engineering too. 
