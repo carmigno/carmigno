@@ -10,5 +10,4 @@ In studied Biomedical Engineering, with a focus in biomedical imaging and image 
 I am very passionate about art, music, politics and humanities, and I would love to put my skills at the service of those fields. If you have something I could help you with, reach me.
 
 📧 [e-mail](gnolo@live.it)
-
-🟦 [linkedin](https://www.linkedin.com/in/gnolo/)
+...🟦 [linkedin](https://www.linkedin.com/in/gnolo/)
