@@ -1,6 +1,6 @@
 **Hello, I am Carmine (he/him/his)!**
 
-I am Data Engineering Consultant from Naples, in southern Italy. I am currently based in Amsterdam.
+I am a Data Engineering Consultant from Naples, in southern Italy. I am currently based in Amsterdam.
 
 I work at Devoteam, and my customer is LeasePlan. I help with building and maintaining the data pipelines that bring data from the many entities in LeasePlan to our AWS/Snowflake cloud infrastructure, and in the while I try help improving processes and communications in our team and across our deparment.  
 
